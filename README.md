@@ -1,4 +1,5 @@
-### Shota Kitazawa (a.k.a kanata)
+### Shota Kitazawa (kanata)
 
-- [🌀 My Portfolio & Portal Page🌀](https://www.kanatakita.com/)
-    - powered by https://github.com/ShotaKitazawa/portal
+* [🐔 Twitter](https://twitter.com/kanatakita)
+* [🌀 My Portfolio & Portal Page](https://www.kanatakita.com/)
+    * powered by https://github.com/ShotaKitazawa/portal

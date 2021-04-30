@@ -1,6 +1,6 @@
-name,issued_by,link
-Certified Kubernetes Administrator,The Linux Foundation,https://www.youracclaim.com/badges/55aae91e-bf69-4b2f-8ea4-5027f01ce6f2/public_url
-Network Specialist,IPA,
-Applied Information Technology Engineer,IPA,
-Fundamental Information Technology Engineer,IPA,
-Cisco Certified Entry Networking Technician (CCENT),Cisco,
+name,icon_url,description,link
+Certified Kubernetes Administrator,,The Linux Foundation,https://www.youracclaim.com/badges/55aae91e-bf69-4b2f-8ea4-5027f01ce6f2/public_url
+Network Specialist,,IPA,
+Applied Information Technology Engineer,,IPA,
+Fundamental Information Technology Engineer,,IPA,
+Cisco Certified Entry Networking Technician (CCENT),,Cisco,
